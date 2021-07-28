@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: api
+metadata:
+  name: example-resources by jeewan 
+  description: A collection of all Backstage example resources
+spec:
+  targets:
+    - ./resources/artists-db-resource.yaml
