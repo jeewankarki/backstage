@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1beta2
-kind: Component
+kind: component
 metadata:
   name: react-ssr-template
   title: React SSR Template
