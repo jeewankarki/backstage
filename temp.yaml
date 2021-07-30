@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1beta2
 kind: component
 metadata:
-  name: react-ssr-template
-  title: React SSR Template
+  name: jeewan karki test yaml file
+  title: jeewan karki test yaml file
   description: Create a website powered with Next.js
   tags:
     - recommended
