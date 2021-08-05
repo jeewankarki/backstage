@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 
 metadata:
-  name: Ui Compoent React
+  name: Ui-Compoent-React
   description: Ui/ux Compoent React
   tags:
     - React
